@@ -1,0 +1,16 @@
+<!DOC TYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>LOGIN</title>
+    </head>
+    <body>
+        <form>
+        <h1>Signup</h1>
+        <div>
+            Full Name:<br>
+            <input type="text" name="full-name">
+        </div>
+        </form>
+    </body>
+</html>
